@@ -14,3 +14,7 @@ Step 3. Press ctrl + c
 Step 4. Start the program and paste your advances  
 ![3](img/3.png?raw=true)  
 Now just aim to hit these new advances and it should result in your desired Pokémon
+
+Links
+=====
+PokéFinder: https://github.com/Admiral-Fish/PokeFinder
